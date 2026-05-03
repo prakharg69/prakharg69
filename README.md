@@ -3,11 +3,8 @@
   <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/luffy-coding.gif" width="200" />
 </p>
 
-<h1 align="center">こんにちは, I'm Prakhar ✨</h1>
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.png" width="30" />
-  I'm Prakhar
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/skull_crossbones.png" width="30" />
+  <span style="color: pink;">こんにちは</span>, I'm Prakhar ✨
 </h1>
 
 <p align="center">
@@ -68,10 +65,6 @@ Self-taught developer on a quest for the ultimate tech stack. Building legendary
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FFD700" />
 </p>
-
----
-
-
 
 ---
 
