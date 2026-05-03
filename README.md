@@ -67,7 +67,7 @@ Self-taught developer on a quest for the ultimate tech stack. Building legendary
 ## 💰 Bounty Collected
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=gruvbox&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakgarg69&layout=compact&theme=gruvbox&hide_border=true" width="40%" />
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox&hide_border=true&hide=stars,issues" width="42%" />
 </p>
 
