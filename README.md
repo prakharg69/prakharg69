@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/luffy-coding.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/prakharg69/prakharg69/main/assets/luffy-coding.gif" width="200" />
 </p>
 
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.png" width="30" />
-  I'm Prakhar
+  I'm Prakhar 
   <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/skull_crossbones.png" width="30" />
 </h1>
 
@@ -16,10 +16,10 @@
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=flat&logo=linkedin&logoColor=black" />
   </a>
-  <a href="mailto:prakhargussain2006@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-8B0000?style=flat&logo=gmail&logoColor=FFD700" />
   </a>
-  <a href="[https://your-portfolio.com](https://portfolio-ruby-gamma-39.vercel.app/)">
+  <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=flat&logo=vercel&logoColor=FFD700" />
   </a>
 </p>
@@ -67,8 +67,8 @@ Self-taught developer on a quest for the ultimate tech stack. Building legendary
 ## 💰 Bounty Collected
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakgarg69&layout=compact&theme=gruvbox&hide_border=true" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox&hide_border=true&hide=stars,issues" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prakharg69&show_icons=true&theme=gruvbox&hide_border=true&hide=stars,issues" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharg69&layout=compact&theme=gruvbox&hide_border=true" width="35%" />
 </p>
 
 ---
