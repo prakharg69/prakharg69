@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7A1C4&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Anime+%26+Code+Lover+(%E2%8C%90%E2%96%A0_%E2%96%A0);Building+Cool+Stuff+%F0%9F%8C%B8" alt="Typing" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%E2%98%A0%EF%B8%8F;Code+is+my+One+Piece+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Sailing+the+Dev+Seas+%F0%9F%8C%8A" alt="Typing" />
 </p>
 
 <p align="center">
@@ -33,7 +32,7 @@
 ---
 
 ## 🌸 About Me
-## 🏴‍☠️ About Me
+
 
 Self-taught developer who codes with lofi and anime OSTs in the background. Building things that matter, one commit at a time.
 Self-taught developer on a quest for the ultimate tech stack. Building legendary projects with the power of friendship and Stack Overflow.
@@ -72,12 +71,7 @@ Self-taught developer on a quest for the ultimate tech stack. Building legendary
 
 ---
 
-## 💰 Bounty Collected
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=gruvbox&hide_border=true" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox&hide_border=true&hide=stars,issues" width="42%" />
-</p>
 
 ---
 
