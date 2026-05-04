@@ -13,7 +13,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-FFB7C5?style=flat&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-C9A0DC?style=flat&logo=gmail&logoColor=black" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FFD1DC?style=flat&logo=vercel&logoColor=black" /></a>
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=flat&logo=linkedin&logoColor=black" />
