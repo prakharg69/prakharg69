@@ -39,7 +39,7 @@ Self-taught developer on a quest for the ultimate tech stack. Building legendary
 ## ⚔️ Tech Stack — My Crew & Weapons
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,vite,nodejs,express,mongodb,postgres,redis,zustand,axios,git,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,vite,nodejs,express,mongodb,postgres,redis,git,vercel,render" />
 </p>
 
 ---
